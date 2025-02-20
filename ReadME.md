@@ -93,4 +93,7 @@ To enhance model performance, a custom RFE algorithm was implemented:
 ```bash
 pip install numpy pandas scikit-learn
 ```
+### 2. Get the dataset from kaggle: (Link to dataset)[https://www.kaggle.com/datasets/tarekmuhammed/patients-data-for-medical-field]
+
+### Sequentially run the cells in model.ipynb
 
