@@ -89,6 +89,8 @@ To enhance model performance, a custom RFE algorithm was implemented:
 
 ## 🚀 How to Run the Project
 
-### **1️⃣ Install Dependencies**
+### **1. Install Dependencies**
 ```bash
 pip install numpy pandas scikit-learn
+```
+
