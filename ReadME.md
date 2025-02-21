@@ -11,7 +11,7 @@ By building the model from scratch, this project demonstrates an in-depth unders
 ✅ Custom **Logistic Regression** implementation using NumPy  
 ✅ Recursive Feature Elimination (**RFE**) for feature selection  
 ✅ **230K-row dataset** processed efficiently  
-✅ Feature reduction from **30 → 7** without losing accuracy  
+✅ Feature reduction from **35 → 7** without losing accuracy  
 ✅ Achieved **94% accuracy** on test data  
 ✅ Scalable and interpretable model for **healthcare analytics**  
 
